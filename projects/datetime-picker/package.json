@@ -1,6 +1,6 @@
 {
-  "name": "@angular-material-components/datetime-picker",
-  "version": "2.0.0",
+  "name": "rs-datetime-picker",
+  "version": "2.0.8",
   "description": "Angular Material Datetime Picker",
   "author": "HO Hong Quan",
   "repository": {
@@ -27,12 +27,14 @@
   ],
   "license": "MIT",
   "peerDependencies": {
-    "@angular/platform-browser": "0.0.0-NG",
-    "@angular/common": "0.0.0-NG",
-    "@angular/core": "0.0.0-NG",
-    "@angular/forms": "0.0.0-NG",
-    "@angular/material": "0.0.0-PLACEHOLDER",
-    "@angular/cdk": "0.0.0-PLACEHOLDER",
-    "tslib": "0.0.0-TSLIB"
+    "@angular/platform-browser": "8.2.14",
+    "@angular/common": "8.2.14",
+    "@angular/core": "8.2.14",
+    "@angular/forms": "8.2.14",
+    "@angular/material": "8.2.3",
+    "@angular/animations": "~8.2.14",
+    "@angular/cdk": "8.2.3",
+    "tslib": "1.11.0",
+    "rxjs": "~6.4.0"
   }
 }
