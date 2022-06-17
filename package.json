@@ -52,7 +52,7 @@
     "highlight.js": "^9.18.1",
     "moment": "^2.27.0",
     "ngx-highlightjs": "^4.1.0-beta",
-    "rs-datetime-picker": "^2.0.4",
+    "@rs-pk/datetime-picker": "^1.0.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"

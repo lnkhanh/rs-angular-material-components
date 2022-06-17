@@ -1,6 +1,6 @@
 {
-  "name": "rs-datetime-picker",
-  "version": "2.0.8",
+  "name": "@rs-pk/datetime-picker",
+  "version": "1.0.0",
   "description": "Angular Material Datetime Picker",
   "author": "HO Hong Quan",
   "repository": {
